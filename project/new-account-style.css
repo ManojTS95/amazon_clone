@@ -1,0 +1,31 @@
+*{
+    justify-content:center;
+}
+.logo{
+    background-image: url(logo.png);
+    width:300px;
+    height:100px;
+    background-size: cover;
+    color: black;
+    background-color: black;
+    text-align: center;
+    margin-left: 40%;
+}
+.account{
+    border:1px  solid black;
+    margin-left: 35%;
+    margin-top: 30px;
+    padding-left: 20px;
+    width: 400px;
+    padding-bottom: 50px;
+}
+.account input{
+    width:300px;
+    height:30px;
+}
+.account a{
+    width:20%;
+    border-radius: 3px;
+    background-color:rgb(255, 187, 0);
+    
+}
